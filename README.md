@@ -2,4 +2,4 @@
 
  ONE OF THE PROJECTS THAT I USED FOR LEARNING JAVASCRIPT!
 
-LINK TO THE LIVE SITE => https://stately-arithmetic-aa68ce.netlify.app
+LINK TO THE LIVE SITE => https://bankist-home-study.netlify.app
